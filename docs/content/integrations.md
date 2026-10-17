@@ -71,6 +71,7 @@ availability may lag upstream releases.
 - [ShellOracle](https://github.com/djcopley/ShellOracle) - Terminal utility
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLMs via pure shell scripts
 - [Mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [Octomind](https://github.com/muvon/octomind) - CLI coding agent runtime, MCP-native, works with OpenAI-compatible endpoints
 
 ### Chat Bots
 
